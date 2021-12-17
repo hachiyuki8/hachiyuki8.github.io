@@ -40,8 +40,7 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 
 - **☆ 15-459 Quantum Computation**
   - Took this course because I'm interested in the topic and it's purely about the CS and math aspects (no physics involved - yes I hate physics).
-  - Turned out to be way harder than I expected - guess I'm just not a theory person. Still really rewarding though, and Ryan O'Donnell is very nice, so I'm glad I didn't drop it.
-  - It remains to be seen how I will do in this course. Will update.
+  - Turned out to be way harder than I expected - guess I'm just not a theory person. Still really rewarding though, and Ryan O'Donnell is very nice, so I'm glad I didn't drop it (even though I ended up with a suboptimal grade).
 
 - **67-262 Database Design and Development**
   - First half of the course (SQL basics) was entirely a review for me, pretty boring. The second half was about some conceptual stuff about relational databases and MongoDB, which was somewhat new, but still pretty boring.
