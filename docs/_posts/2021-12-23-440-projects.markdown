@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "15-440 Distributed Systems Projects"
+date:   2021-12-23 10:28:00 -0500
+categories: random
+---
+
+A recap of all projects for 15-440 Distributed Systems (fall 2021).
+
+- Project 0
+{:toc}
+
+### Project 0: Go Concurrency and Testing
+
+P0 is a introductory project that focuses on Golang basics, including concurrency, socket programming, and testing. It is an individual project.
+
+In part A, I implemented a key-value database server that supports concurrent access and modification of messages from multiple clients. Concurrent communication was realized with Goroutines and channels only.
+
+In part B, I wrote tests to detect unknown concurrency bugs in several black-box implementations of a given API
+
+**Reflection**: A relatively straightforward project
+
+<br />
+
+### Project 1:
+
