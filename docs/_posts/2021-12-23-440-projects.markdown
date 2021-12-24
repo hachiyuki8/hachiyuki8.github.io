@@ -1,26 +1,83 @@
 ---
 layout: post
-title:  "15-440 Distributed Systems Projects"
+title:  "Distributed Systems Projects Recap"
 date:   2021-12-23 10:28:00 -0500
 categories: random
 ---
 
-A recap of all projects for 15-440 Distributed Systems (fall 2021).
+A recap of all projects for [15-440 Distributed Systems](https://www.synergylabs.org/courses/15-440/) (fall 2021).
 
-- Project 0
+- Projects
 {:toc}
-
-### Project 0: Go Concurrency and Testing
-
-P0 is a introductory project that focuses on Golang basics, including concurrency, socket programming, and testing. It is an individual project.
-
-In part A, I implemented a key-value database server that supports concurrent access and modification of messages from multiple clients. Concurrent communication was realized with Goroutines and channels only.
-
-In part B, I wrote tests to detect unknown concurrency bugs in several black-box implementations of a given API
-
-**Reflection**: A relatively straightforward project
 
 <br />
 
-### Project 1:
+### Project 0: Go Concurrency and Testing
 
+P0 is an introductory individual project that focuses on Golang basics, including concurrency, socket programming, and testing.
+
+- In the first part, I implemented a key-value database server that supports concurrent access and modification of messages from multiple clients. Concurrent communication was realized with goroutines and channels only as required.
+
+- In the second part, I wrote tests to detect unknown concurrency bugs in several black-box implementations of a given API.
+
+**Reflection**: A relatively straightforward project. Trivial once one gets used to how channels work.
+
+<br />
+
+### Project 1: Distributed Bitcoin Miner
+
+P1 is (arguably) the hardest project for the course and has to be done in groups of two.
+
+- In the first part, my teammate and I implemented a network communication protocol called *Live Sequence Protocol*, which is a client-server model supporting connection-oriented communication, reliable in-order delivery, and guarantee of message integrity - but built upon UDP only. Synchronization was, again, required to be realized with channels instead of traditional synchronization tools.
+
+- In the second part, we built a distributed Bitcoin mining infrastructure consisting of clients, servers, and miners communicating via *Live Sequence Protocol* with failure detection and load balancing.
+
+**Reflection**: A huge leap in difficulty compared to P0. 
+
+- A significant amount of time was spent on redesigning our architecture in the first part because we weren't experienced enough to think through everything clearly at the beginning.
+
+- The sliding window protocol and timeout mechanism were harder to implement correctly than they might seem, and resulted in a lot of subtle concurrency issues that took a long time to figure out.
+
+- Another thing that turned out to be non-trivial was handling closed versus lost connections on client-side versus server-side, since read and write have different expected behaviors under these cases.
+
+- The second part was relatively simple as long as one was careful about handling race conditions.
+
+<br />
+
+### Project 2: The Raft Consensus Algorithm
+
+P2 is another individual project.
+
+- I implemented [Raft](https://raft.github.io/raft.pdf), a replicated state machine protocol. It is used to achieve data consistency in systems using replication to achieve fault tolerance, and is designed for better understandability than [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)).
+
+- The implementation supports leader election and log replication. The correctness of the algorithm is guaranteed by the following properties: election safety, leader append-only, log matching, leader completeness, state machine safety.
+
+- Unlike P0 and P1, there is no restriction on how synchronization should be achieved. My implementation relies purely on channels for synchronization.
+
+**Reflection**: Around the same level of difficulty as P1. I found it slightly easier than P1, but heard many think otherwise.
+
+- I originally used locks to synchronize, but ended up with too many deadlocks, so I redesigned my implementation and get rid of locks. Both design decisions probably would result in similar complexity though.
+
+- The algorithm is straightforward, but there are a lot of edge cases. I ran into many extremely subtle concurrency bugs, the root cause of which was hard to find - such as making an unimportant assumption that seemed obviously correct but was actually not. The overall strategy is just to make sure the code is following the algorithm specification exactly as is.
+
+<br />
+
+### Project 3: Tribbler
+
+Similar to P1, P3 is to be completed in groups of two.
+
+- My teammate and I implemented a three-tier architecture consisting of a client frontend, an application server layer, and a backend storage system, supporting the basic features of a social media platform such as subscribing to users and posting messages. Communication across layers is realized with RPCs.
+
+- The application server layer is stateless but has a small lease-based cache based on consistent caching. Each server receives requests from multiple clients concurrently and routes them to different storage servers.
+
+- The backend storage system consists of multiple storage servers, each of which providing an in-memory thread-safe key-value storage.
+
+**Reflection**: The complexity of the system was similar to that of P1, but debugging was less annoying, so definitely more chill than P1 overall.
+
+- There weren't many concurrency issues to worry about in the frontend and the application server. The backend was the most challenging, mostly because of lease management. Using locks also caused some efficiency issues.
+
+- We were puzzled by some subtle bugs for a while because we couldn't find which part of our system design was related to them. In the end it turned out to just be some erroneous handling of RPC calls.
+
+<br />
+
+Overall, the three major projects were pretty cool. P1 and P2 definitely caused a significant amount of frustration when I was working on them, but in hindsight it was a worthy experience. Many issues could have been avoided had I chosen a better design in the beginning, but now that I think about it, it was pretty hard to foresee those issues when I started - maybe due to my lack of experience; hence, constant adjustments were necessary.
