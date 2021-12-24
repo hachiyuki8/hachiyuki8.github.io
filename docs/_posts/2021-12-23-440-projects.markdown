@@ -48,7 +48,7 @@ P1 is (arguably) the hardest project for the course and has to be done in groups
 
 P2 is another individual project.
 
-- I implemented [Raft](https://raft.github.io/raft.pdf), a replicated state machine protocol. It is used to achieve data consistency in systems using replication to achieve fault tolerance, and is designed for better understandability than [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)).
+- I implemented [Raft](https://raft.github.io/raft.pdf), a replicated state machine protocol. It is used to achieve data consistency in systems using replication for fault tolerance, and is designed for better understandability than [Paxos](https://en.wikipedia.org/wiki/Paxos_(computer_science)).
 
 - The implementation supports leader election and log replication. The correctness of the algorithm is guaranteed by the following properties: election safety, leader append-only, log matching, leader completeness, state machine safety.
 
