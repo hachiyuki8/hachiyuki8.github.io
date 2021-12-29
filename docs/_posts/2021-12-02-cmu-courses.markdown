@@ -11,7 +11,7 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 
 **Degree**: BS in Information Systems + additional major in Computer Science
 
-**Background**: I entered CMU (Dietrich) with a decent background in humanities and social science, and wanted to study psychology or cognitive science at first. I didn't have much, if any, STEM background other than several years of experience in Pascal and a little knowledge of Java (from APCS).
+**Background**: I entered CMU (Dietrich) with a decent background in humanities and social science, and wanted to study psychology or cognitive science at first. I didn't have much, if any, STEM background other than several years of experience in Pascal and a little knowledge of Java (from APCS) and Python.
 
 - General thoughts
 {:toc}
@@ -34,8 +34,8 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 
 #### Courses
 
-- **☆☆ 15-440 Distributed Systems**
-  - Go is a cool language and it's been growing on me over time. The three major projects were also cool - P1 was the hardest, P2 was only slightly less annoying, but P3 was rather chill. P1 and P3 were group projects.
+- **☆☆ [15-440 Distributed Systems](https://www.synergylabs.org/courses/15-440/)**
+  - Go is a cool language and it's been growing on me over time. The three major projects were also cool - P1 was the hardest, P2 was only slightly less annoying, but P3 was rather chill. P1 and P3 were group projects. Read more about the projects [here](https://hachiyuki8.github.io/random/2021/12/23/440-projects.html).
   - Interesting course content and I liked it in general - I also had a good teammate which helped. Pretty stressful course schedule during the first half of the semester though, and I definitely spent more time than I heard people say it would take.
 
 - **☆ 15-459 Quantum Computation**
@@ -50,7 +50,7 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
   - Very flexible topic choice for all the projects (except the first one, which is job application materials) and I enjoyed working on (and put a lot of effort in) all of them. Peter Mayshle is also very chill.
   - Would have benefited from the course even more had I taken it in my sophomore year.
  
-- **(TA) 15-210 Parallel and Sequential Data Structures and Algorithms**
+- **(TA) [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
   - I originally wanted to TA 15-213, but Charlie asked me if I was interested in TAing 210, so here I am.
   - I enjoyed teaching students algorithms and problem solving techniques, but not so much debugging their code (I guess it's lucky that I didn't end up TAing 213).
   - Received pretty good feedbacks and was also able to gain a much deeper understanding on the course content myself. Overall rewarding experience.
@@ -69,7 +69,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Other Committments
 
-- Interned at Amplitude as a backend software engineer. Very rewarding, helped me learn a lot as an SWE and feel more prepared for the industry.
+- Interned at [Amplitude](https://amplitude.com/) as a backend software engineer. Very rewarding, helped me learn a lot as an SWE and feel more prepared for the industry.
 
 <br />
 
@@ -77,12 +77,12 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Courses
 
-- **☆☆ 15-213 Introduction to Computer Systems**
+- **☆☆ [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)**
   - Pleasantly surprised by how much I enjoyed the course content, even though it was rather challenging and I didn't quite remember how to program in C at the start of the course. It also made me interested in computer systems.
   - Working through the labs improved my programming skill by a lot - I liked every one starting from Attack lab. It became more time consuming starting from Malloc lab but was definitely worth it.
 
-- **☆☆ 15-388 Practical Data Science**
-  - Another very useful course for people interested in data science, requires rather solid Python skills and focuses heavily on application (as the name suggested). Decent workload. All course content is [public](http://www.datasciencecourse.org/).
+- **☆☆ [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
+  - Another very useful course for people interested in data science, requires rather solid Python skills and focuses heavily on application (as the name suggested). Decent workload. Zico Kolter was very flexible about project topics which was great.
   - Covers all the major aspects of data science (collection, modeling, etc). The statistical and machine learning modeling part has some overlap with 36-290.
 
 - **67-250 The Information Systems Milieux**
@@ -112,7 +112,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Courses
 
-- **☆☆ 15-210 Parallel and Sequential Data Structures and Algorithms**
+- **☆☆ [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
   - After 15-150, I thought I would hate this class, but learning algorithms and solving problems functionally turned out to be fun. SML also became more tolerable when you're not only learning about the language itself.
   - I'm not really a theory person, and my brain still doesn't quite work functionally, so I had to put in quite some effort, but it was really rewarding. 
 
@@ -152,7 +152,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Courses
 
-- **(Summer 1) 15-150 Principles of Functional Programming**
+- **(Summer 1) [15-150 Principles of Functional Programming](http://www.cs.cmu.edu/~15150/)**
   - Didn't particularly enjoy learning SML - it (plus various other reasons) kind of discouraged me from transferring to SCS.
   - Way too fast-paced since it was only six weeks - the idea of functional programming was somewhat cool, but it was too novel a perspective for me to be sufficiently comprehended in that short of a time. I think they changed it to be 12 weeks in summer 2021.
 
@@ -177,7 +177,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Courses
 
-- **15-122 Principles of Imperative Computation**
+- **[15-122 Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/)**
   - C (well, C0) is hard. And annoying. 
   - Lectures were a bit boring, although I did learn a lot, especially when it comes to data structures. Writing contracts and invariants and proving correctness was also somewhat interesting.
 
@@ -229,7 +229,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
   - Covers the basics of social science research with quite some R exposure - some overlap with 202. 
   - Mark Patterson is so nice. The seminar was also a good chance to know other peers in the QSSS program - most of us actually lived in the same dorm.
 
-- **15-112 Fundamentals of Programming (Dropped)**
+- **[15-112 Fundamentals of Programming](https://www.cs.cmu.edu/~112/) (Dropped)**
   - I didn't need to take it, but I was worried that my programming fundamentals was not solid - I barely remembered anything from APCS. 
   - Dropped it five weeks into the semester because I was struggling in 127 and wanted more time, also the course annoyed me more than it benefited.
 
@@ -238,6 +238,6 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 **Major**: DC undeclared, leaning towards statistics by the end of the semester. Due to various reasons, was also considering transferring to SCS.
 
-**Workload**: light once 127 clicks
+**Workload**: light once 127 clicked
 
 **Reflections**: In hindsight, I should have just taken 15-122 this semester. But the transition from high school to college in another country turned out to be harder than I expected, so I don't completely regret not pushing myself harder.
