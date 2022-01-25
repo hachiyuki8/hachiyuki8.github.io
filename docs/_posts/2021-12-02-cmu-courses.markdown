@@ -30,6 +30,26 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 
 <br />
 
+### Spring 2022 (TODO)
+
+#### Courses
+
+- **[15-251 Great Ideas in Theoretical Computer Science](https://s22.cs251.com/index.html)**
+
+- **[15-330 Introduction to Computer Security](https://www.andrew.cmu.edu/course/18-330/2022s/)**
+
+- **67-272 Application Design and Development**
+
+- **70-332 Business, Society and Ethics**
+ 
+- **(TA) [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
+
+**Workload**:
+
+**Reflections**: 
+
+<br />
+
 ### Fall 2021
 
 #### Courses
