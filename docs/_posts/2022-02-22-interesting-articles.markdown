@@ -13,10 +13,12 @@ categories: random
 ### Tech
 - [Google Search is Dying](https://dkb.io/post/google-search-is-dying)
 - [I Have No Capslock and I Must Scream](https://memex.marginalia.nu/log/48-i-have-no-capslock.gmi)
+- [Knowledge, Creativity and P versus NP](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/AW09/AW09.pdf)
 <br/>
 
 ### Social
 - [Five Things You Notice When You Quit the News](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/)
+- [Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=r)
 <br/>
 
 ### Life
