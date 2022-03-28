@@ -75,33 +75,33 @@ I actually collected a long list of restaurant recommendations before the trip, 
 - *location: Capitol Hill; multiple in DC and Arlington*
 - Good pizza, very large slices which cost only five bucks each. I liked the buffalo chicken one a lot. The butcher's block, on the other hand, was a bit too salty.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/pizza.jpg" alt="pizza" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/pizza.webp" alt="pizza" width="350"/></div>
 
 #### ☆ [The Capital Burger](https://www.thecapitalburger.com/home)
 - *location: Downtown*
 - I got the fried chicken sandwich and it was so juicy and tender, would strongly recommend it. Just thinking about it makes me want to get some fried chicken.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/burger.jpg" alt="fried chicken sandwich" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/burger.webp" alt="fried chicken sandwich" width="350"/></div>
 
 #### [District Doughnut](https://www.districtdoughnut.com/)
 - *location: Southwest Waterfront; multiple in DC and Arlington*
 - We went there on a cold rainy morning. Decent donuts but "not worth getting frostbite for", according to my boyfriend - which I agree with.
 - The lemon and blueberry ones were the best. Cherry blossom flavor was a little bit too sweet but still decent. I didn't quite like the creme brulee one.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/donut.jpg" alt="six donuts" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/donut.webp" alt="six donuts" width="350"/></div>
 
 #### [Rice Bar](http://ricebardc.com/)
 - *location: National Mall; multiple in DC*
 - It's fine but nothing impressive, also a bit expensive given how little kalbi (Korean BBQ beef ribs) they gave me. I regretted ordering a signature bowl instead of making my own, since I didn't quite like the mixed flavor of all the ingredients they put in there.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/ramen.jpeg" alt="ramen" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/ramen.webp" alt="ramen" width="350"/></div>
 
 #### ☆ [Founding Farmers](https://www.wearefoundingfarmers.com/)
 - *location: Downtown*
 - Huge portion sizes given the pricing. I got the farmhouse platter and thought it was really worth the price - the pork ribs were the best, the hotdog and baby cheeseburgers were also pretty good.
 - For dessert, we got "death by chocolate" - it was three big scoops of chocolate ice cream with whipped cream, hot fudge and brownies. A great choice if one is a chocolate fan, and it was so big the two of us barely finished it.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/platter.jpg" alt="farmhouse platter" width="350"/> <img src="/assets/chocolate.jpg" alt="chocolate ice cream" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/platter.webp" alt="farmhouse platter" width="350"/> <img src="/assets/chocolate.webp" alt="chocolate ice cream" width="350"/></div>
 
 #### [Le Café Market](https://www.lecafemarket.com/)
 - *location: Arlington*
@@ -112,19 +112,19 @@ I actually collected a long list of restaurant recommendations before the trip, 
 - Decent Italian food but I wouldn't go there again given how expensive it was and how small the portions were - a sharp contrast with above. The meatballs were fine but a bit salty.
 - We were offered a soft serve (vanilla gelato and cherry blossom sorbetto) for free. The cherry blossom flavor was really interesting.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/italian.jpg" alt="meatballs and fettuccine" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/italian.webp" alt="meatballs and fettuccine" width="350"/></div>
 
 #### ☆ [Dolcezza](https://dolcezzagelato.com/)
 - *location: Downtown (City Center); multiple in DC*
 - We got three scoops: banana split, blood orange sherbert, and lemon ricotta cardamom. The blood orange flavor was quite unique, and tasted a lot better when mixed together with the lemon one than alone. 
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/dolcezza.jpg" alt="dolcezza gelato" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/dolcezza.webp" alt="dolcezza gelato" width="350"/></div>
 
 #### Tivoli Gourmet Deli
 - *location: Arlington (Ballston-MU station)*
 - Some warm sandwiches for brunch is always a good choice on a freezing snowy day. Nothing fancy, but tasted good. A convenient place to grab a quick bite (it's right next to the metro station).  
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/sandwich.jpeg" alt="sandwiches" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/sandwich.webp" alt="sandwiches" width="350"/></div>
 
 #### ☆ [Levain Bakery](https://levainbakery.com/)
 - *location: Georgetown*
@@ -135,7 +135,7 @@ I actually collected a long list of restaurant recommendations before the trip, 
 - Our friend strongly recommended it and took us there. It was a Latin American restaurant with a very unique interior design, slightly expensive (but not as much as Sfoglina because they actually have a decent serving size).
 - We ordered quite some dishes but the mole chicken and churrasco steak impressed me the most. Also got a scoop of mascarpone & berries gelato since a friend recommended it, which was decent (a safe choice of flavor).
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/mercy1.jpeg" alt="side dished at mercy me" width="350"/> <img src="/assets/mercy2.jpeg" alt="entrees at mercy me" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/mercy1.webp" alt="side dished at mercy me" width="350"/> <img src="/assets/mercy2.webp" alt="entrees at mercy me" width="350"/></div>
 
 #### ☆ [Soi 38](https://www.soi38dc.com/)
 - *location: Foggy Bottom/Dupont Circle*
@@ -143,15 +143,15 @@ I actually collected a long list of restaurant recommendations before the trip, 
 - Ped Roti (slow-roasted duck) reminded me of Peking duck and was probably my favorite. I also liked the honey roasted duck and pineapple fried rice.
 - For dessert we got mango with sticky rice and banana with fried roti, both were on the sweeter side (which was exactly what I wanted).
 
-<div style="text-align: center;"><img src="/assets/soi1.jpeg" alt="Ped Roti" width="350"/></div>
-<div style="text-align: center;"><img src="/assets/soi2.jpg" alt="entrees at Soi 38" width="350"/></div>
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/soi3.jpeg" alt="desserts at Soi 38" width="350"/></div>
+<div style="text-align: center;"><img src="/assets/soi1.webp" alt="Ped Roti" width="350"/></div>
+<div style="text-align: center;"><img src="/assets/soi2.webp" alt="entrees at Soi 38" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/soi3.webp" alt="desserts at Soi 38" width="350"/></div>
 
 #### ☆ [Nando's Peri Peri](https://www.nandosperiperi.com/)
 - *location: multiple in DC and Arlington*
 - We ordered a full chicken platter with lemon and herb flavoring and got it delivered as our last meal in DC. The chicken was so good that I literally devoured my half in no time. I really want to have it again.
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/chicken.jpg" alt="full chicken" width="350"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/chicken.webp" alt="full chicken" width="350"/></div>
 
 #### *Recommendations*
 - **My favorites**: Founding Farmers, The Capital Burger, Nando's Peri Peri
@@ -168,7 +168,7 @@ I actually collected a long list of restaurant recommendations before the trip, 
   - Franklin Delano Roosevelt Memorial (my favorite)
   - Thomas Jefferson Memorial
 - It'd be nice to spend an afternoon when the weather is nice to walk around Tidal Basin (most of the memorials are in its vicinity). Unfortunately, when we went there, the cherry blossoms around there hadn't bloomed at all.
-- On the north and east end were the White House and US Capitol. We didn't go into either building and just took some photos from a far. 
+- On the north and east end were the White House and US Capitol. We didn't go into either building and just took some photos from afar. 
 
 #### Pentagon City
 - We took a stroll with our friend in the Fashion Centre at Pentagon City and got dessert there. It's quite a large shopping mall and pretty crowded.
@@ -186,12 +186,12 @@ I actually collected a long list of restaurant recommendations before the trip, 
 ### Photos
 Photo Credit: [Max Slater](https://thenumbat.github.io/Washington/)
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/1.png" alt="tree sculpture" width="750"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/1.webp" alt="tree sculpture" width="750"/></div>
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/4.png" alt="washington monument" width="750"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/4.webp" alt="washington monument" width="750"/></div>
 
 <div style="text-align: center; padding-bottom: 25px;"><img src="/assets/2.webp" alt="shadows on the sand" width="750"/></div>
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/3.png" alt="pink flowers" width="750"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/3.webp" alt="pink flowers" width="750"/></div>
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/5.png" alt="capitol building" width="750"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/5.webp" alt="capitol building" width="750"/></div>
