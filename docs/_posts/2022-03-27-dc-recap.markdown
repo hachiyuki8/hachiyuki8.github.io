@@ -190,7 +190,7 @@ Photo Credit: [Max Slater](https://thenumbat.github.io/Washington/)
 
 <div style="text-align: center; padding-bottom: 25px;"><img src="/assets/4.png" alt="washington monument" width="750"/></div>
 
-<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/2.jpeg" alt="shadows on the sand" width="750"/></div>
+<div style="text-align: center; padding-bottom: 25px;"><img src="/assets/2.webp" alt="shadows on the sand" width="750"/></div>
 
 <div style="text-align: center; padding-bottom: 25px;"><img src="/assets/3.png" alt="pink flowers" width="750"/></div>
 
