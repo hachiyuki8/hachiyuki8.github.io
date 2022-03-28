@@ -75,13 +75,15 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
   - I enjoyed teaching students algorithms and problem solving techniques, but not so much debugging their code (I guess it's lucky that I didn't end up TAing 213).
   - Received pretty good feedbacks and was also able to gain a much deeper understanding on the course content myself. Overall rewarding experience.
 
-**Major**: Decided to get an additional major in CS.
+**Major**: Decided to get an additional major in CS because otherwise I would have almost nothing to do in my senior year.
 
 **Workload**: heavy at some point but manageable in general
 
-**Reflections**: I am still mad about the IS department not letting me take 67-272 and 67-373 together next semester, despite my strong academic standing and proposal to take another CS class before that, which is definitely harder than 272, hence enough preparation for 373. So I cannot graduate in three years because of this one course, which is pretty stupid. Ironically the IS department always says they pride themselves in the flexibility of their program, LOL.
+**Reflections**: I am still mad about the IS department not letting me take 67-272 and 67-373 together next semester, despite my strong academic standing and proposal to take another CS class before that, which is definitely enough preparation for 373. So I cannot graduate in three years because of this one course, which is pretty stupid. Ironically the IS department always says they pride themselves in the flexibility of their program, LOL.
 
 Therefore I made up my mind to get an additional major in CS. But this also means I totally could have just taken more CS courses and tried to transfer into SCS in my sophomore year instead... (I still can, but at this point where I'm on track to finish both majors in four years anyways, it's not worth doing so anymore.)
+
+This was also a semester with multiple big changes in life. Starting therapy at CaPS definitely helped me manage my anxiety better when facing many uncertainties.
 
 <br />
 
@@ -101,7 +103,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
   - Pleasantly surprised by how much I enjoyed the course content, even though it was rather challenging and I didn't quite remember how to program in C at the start of the course. It also made me interested in computer systems.
   - Working through the labs improved my programming skill by a lot - I liked every one starting from Attack lab. It became more time consuming starting from Malloc lab but was definitely worth it.
 
-- **☆☆ [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
+- **☆ [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
   - Another very useful course for people interested in data science, requires rather solid Python skills and focuses heavily on application (as the name suggested). Decent workload. Zico Kolter was very flexible about project topics which was great.
   - Covers all the major aspects of data science (collection, modeling, etc). The statistical and machine learning modeling part has some overlap with 36-290.
 
@@ -124,7 +126,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 **Workload**: moderate
 
-**Reflections**: I should have transferred into SCS instead of IS. I still feel fine about my decision, but given a second chance I would definitely choose differently.
+**Reflections**: A semester where things magically started getting better.
 
 <br />
 
@@ -132,7 +134,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 
 #### Courses
 
-- **☆☆ [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
+- **☆ [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
   - After 15-150, I thought I would hate this class, but learning algorithms and solving problems functionally turned out to be fun. SML also became more tolerable when you're not only learning about the language itself.
   - I'm not really a theory person, and my brain still doesn't quite work functionally, so I had to put in quite some effort, but it was really rewarding. 
 
@@ -140,7 +142,7 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
   - A research training course for sophomore statistics students. Highly recommended if you're interested in doing statistics or data science stuff - extremely useful.
   - Heavy focus on application of statistical learning methods (supervised and unsupervised), with a lot of programming in R. 
 
-- **☆ 36-350 Statistical Computing**
+- **36-350 Statistical Computing**
   - A good course to practice R fundamentals and common libraries for data analysis, and learn some slightly more involved topics (simulation, optimization, etc). It helps one become decent at programming in R with a very reasonable amount of effort. Some overlap with 290.
   - Last few weeks were about SQL basics which is also useful. 
 
@@ -160,11 +162,11 @@ Therefore I made up my mind to get an additional major in CS. But this also mean
 - personal project
 - projects for [Scotty Labs](https://scottylabs.org/) and [Data Science Club](https://cmu-dsc.github.io/?fbclid=IwAR0SeXHOWTAbPYnpmqzfMBmYzoPEXvX_qvqQAVGLiJerGlS5LxFXbdOeJSU)
 
-**Major**: Still stats ML, but applied to transfer to information systems.
+**Major**: Still in stats ML, but applied to transfer to information systems.
 
 **Workload**: a bit heavy at the beginning due to projects
 
-**Reflections**: I finally thought about my career path seriously, and leaned toward software development rather than data science as I used to, despite having zero development experience. Hence, I started working on various web projects and applying to SWE internships. Also, I really wished I had reconsidered transferring to SCS - it would have made my life easier.
+**Reflections**: I finally thought about my career path seriously, and leaned toward software development rather than data science as I used to, despite having zero development experience. Hence, I started working on various web projects and applying to SWE internships. Also, I really wished I had reconsidered transferring to SCS - it would have made my life easier eventually.
 
 <br />
 
