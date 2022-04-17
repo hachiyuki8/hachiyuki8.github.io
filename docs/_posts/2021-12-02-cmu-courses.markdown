@@ -101,7 +101,7 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 - **☆☆ [15-213 Introduction to Computer Systems](http://www.cs.cmu.edu/~213/)**
   - Pleasantly surprised by how much I enjoyed the course content, even though it was rather challenging and I didn't quite remember how to program in C at the start of the course. It also made me interested in computer systems.
-  - Working through the labs improved my programming skill by a lot - I liked every one starting from Attack lab. It became more time consuming starting from Malloc lab but was definitely worth it.
+  - Working through the labs improved my programming skill by a lot - I liked every one starting from Attack lab. It became more time consuming starting from Malloc lab, and I have got frustrated when working on some of them, but in hindsight was definitely worth it.
 
 - **☆ [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
   - Another very useful course for people interested in data science, requires rather solid Python skills and focuses heavily on application (as the name suggested). Decent workload. Zico Kolter was very flexible about project topics which was great.
@@ -175,19 +175,18 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 #### Courses
 
 - **(Summer 1) [15-150 Principles of Functional Programming](http://www.cs.cmu.edu/~15150/)**
-  - Didn't particularly enjoy learning SML - it (plus various other reasons) kind of discouraged me from transferring to SCS.
-  - Way too fast-paced since it was only six weeks - the idea of functional programming was somewhat cool, but it was too novel a perspective for me to be sufficiently comprehended in that short of a time. I think they changed it to be 12 weeks in summer 2021.
+  - Didn't particularly enjoy learning SML. How painful this class turned out to be (plus various other reasons) kind of discouraged me from transferring to SCS.
+  - Way too fast-paced since it was only six weeks. The idea of functional programming was somewhat cool, but it was too novel a perspective for me to be sufficiently comprehended in that short of a time, and I really disliked the heavy focus on how this specific language works. I think they changed it to be 12 weeks in summer 2021.
 
 - **(Summer 1) 36-225 Introduction to Probability Theory**
-  - Fairly easy and fun, quite some useful knowledge and practice for probability fundamentals.
+  - Fairly easy with a chill workload, quite some useful knowledge and practice of basic probability theory, random variables and distribution functions, etc.
 
 - **(Summer 2) 36-226 Introduction to Statistical Inference**
-  - Relatively easy with some annoying math, but I didn't quite like the content.
+  - The course content centers using probability to analyze and make inference about data, such as hypothesis testing and linear models, etc.
+  - Relatively easy with some annoying math, although the content isn't quite appealing to me.
 
 - **☆ (Summer 2) 33-124 Introduction to Astronomy**
-  - Perfect course for people who are interested in astronomy but don't want to deal with the math or physics aspect of it too much. As someone who hates most natural sciences, I liked it a lot.
-
-**Major**: Still stats ML, planning to get a CS minor.
+  - Perfect course for people who are interested in astronomy but don't want to deal with the math or physics aspect of it too much. As someone who hates most natural sciences, I liked it a lot and learnt a fair amount. The workload was light.
 
 **Workload**: summer 1 was pretty heavy, summer 2 was chill
 
@@ -200,22 +199,23 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 #### Courses
 
 - **[15-122 Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/)**
-  - C (well, C0) is hard. And annoying. 
-  - Lectures were a bit boring, although I did learn a lot, especially when it comes to data structures. Writing contracts and invariants and proving correctness was also somewhat interesting.
+  - C (well, C0) is hard with no previous exposure, and it takes time for things to start making sense.
+  - Lectures were quite boring, although objectively speaking the content is useful especially for someone who hasn't systematically learnt about data structures like me. 
+  - Writing contracts and invariants and proving correctness was somewhat interesting of a concept, although it did get annoying at times.
 
 - **21-241 Matrices and Linear Transformations**
-  - Took it with my 21-127 professor Irina. I like her lecturing style, and the content was easier comparing to 127 - although also slightly less interesting.
+  - Not quite interested in linear algebra, but it was tolerable since the content was easier than that of 21-127 and the workload was also lighter.
 
 - **76-101 Interpretation and Argument**
-  - Took it with my 76-100 professor Keely Austin. The topic was virtues, which was also slightly less appealing to me. 
-  - Heavier focus on analysis and writing techniques comparing to 76-100.
+  - Heavier focus on analysis and more involved writing techniques comparing to 76-100.
+  - From what I heard, people's experience in this class varies highly depending on which section they are in, since professors and topics are different. Even within the same section, the professor may have preference for certain writing styles. (Same thing holds for 76-100) 
 
 - **73-102 Principles of Microeconomics**
-  - I thought I was interested in economics until I took this course - it's not the course's problem though. It's fairly easy, also James Best is humorous and teaches well. Quite some overlap with AP Microeconomics.
+  - I thought I was interested in economics until I took this course - it's not the course's problem though. It's fairly easy, and my professor (James Best) was humorous and explained things well. Quite some overlap with AP Microeconomics.
 
 - **99-251 Seminar for Supplemental Instruction**
   - Back then, to become a Supplemental Instruction/Excel leader, one needs to take this training course. Not sure if it's still the case after the academic development department was restructured.
-  - Practices some basics of teaching for collaborative learning, supporting academic development and stuff. A good break from schoolwork.
+  - Practices some basics of teaching for collaborative learning, supporting academic development and stuff. I just treated it as break from schoolwork.
 
 - **☆ 98-182 (Student Taught Courses) Billiard Games: From Noob to Pro**
   - Very fun and I enjoyed a lot. Pretty unfortunate that in-person practice was disrupted because of the pandemic. 
@@ -223,9 +223,9 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 #### Other Committments
 - CMU Overwatch team
 
-**Major**: Declared statistics and machine learning.
+**Major**: Declared statistics and machine learning because I wanted to do data science related work.
 
-**Workload**: light
+**Workload**: light until the end of semester where I lost motivation to study because of the pandemic
 
 **Reflections**: Anxiety hit me hard since the start of the pandemic in China, since my parents were there. Later in the semester I stopped playing for the Overwatch team because I couldn't handle anything remotely intense or competitive.
 
@@ -236,20 +236,19 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 #### Courses
 
 - **21-127 Concepts of Mathematics**
-  - I'm not really a math person, but I found the content decently interesting and useful in many future courses.
-  - First 1/3rd of the course gave me a rough time because I wasn't very good at writing rigorous proofs. It got much easier for me after the first midterm.
+  - Covers the fundamentals of discrete math, including logic, proof techniques, basic set theory and number theory, etc. I'm not really a math person, but I found the content decently structured and taught, and useful in many future courses.
+  - The course is heavily proof-based. First 1/3rd of the course gave me a rough time because I wasn't very good at writing rigorous proofs, but it got much easier once I got a hang of it.
 
 - **36-202 Methods for Statistics and Data Science**
-  - I wasn't yet a statistics person at that time, but also found the content engaging (definitely more than AP statistics). A very easy course that covers quite some important fundamentals of statistics and provides a little R exposure.
-  - Gordon Weinberg is a good instructor and a nice person.
+  - I wasn't yet a statistics person at that time, but definitely found the content more engaging than AP statistics. A very easy course that covers quite some important fundamentals of statistics and provides a little R exposure.
 
 - **76-100 Reading and Writing in an Academic Context**
-  - The topic of my section was linguistic identity. As a bilingual I was pretty interested in it and found many readings relevant and relatable.
-  - I did hear that we had more low-stake assignments comparing to other professors' sections though...
+  - As an international student, I had to take it or take the placement test to skip it. In hindsight, I don't think I learnt anything new from it, although it did help me brush up on my writing.
+  - Most of the lower-stake assignments centered around basic writing skills, such as writing synthesis, presenting arguments, etc.
 
 - **66-106 Quantitative Social Science Scholars First Year Seminar**
-  - Covers the basics of social science research with quite some R exposure - some overlap with 202. 
-  - Mark Patterson is so nice. The seminar was also a good chance to know other peers in the QSSS program - most of us actually lived in the same dorm.
+  - Covers the basics of social science research with quite some R exposure - some overlap with 202. Moderate amount of reading and lectures are discussion-based.
+  - The seminar was also a good chance to know other peers in the QSSS program.
 
 - **[15-112 Fundamentals of Programming](https://www.cs.cmu.edu/~112/) (Dropped)**
   - I didn't need to take it, but I was worried that my programming fundamentals was not solid - I barely remembered anything from APCS. 
@@ -262,4 +261,4 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 **Workload**: light once 127 clicked
 
-**Reflections**: In hindsight, I should have just taken 15-122 this semester. But the transition from high school to college in another country turned out to be harder than I expected, so I don't completely regret not pushing myself harder.
+**Reflections**: In hindsight, I should have just taken 15-122 and 76-101 this semester. But the transition from high school to college in another country turned out to be harder than I expected, so I don't *completely* regret not pushing myself harder.
