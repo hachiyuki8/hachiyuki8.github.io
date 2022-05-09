@@ -16,9 +16,10 @@ categories: random
 - [Knowledge, Creativity and P versus NP](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/AW09/AW09.pdf)
 <br/>
 
-### Social
+### Society
 - [Five Things You Notice When You Quit the News](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/)
 - [Why we stopped making Einsteins](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=r)
+- [The Agony of Eros: Dating](https://ava.substack.com/p/the-agony-of-eros-dating?s=r)
 <br/>
 
 ### Life
