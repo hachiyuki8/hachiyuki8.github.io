@@ -7,7 +7,9 @@ categories: random
 
 Thoughts on CMU courses (and reflections on my college experience). Inspired by [similar pages](https://thenumbat.github.io/cmu/).
 
-☆ are the courses I enjoyed and found fun/somewhat useful, ☆☆ are those I also benefited a lot from/thought were worth taking.
+☆ are the courses I personally enjoyed and found fun
+! are those I considered (objectively) good or useful
+☆☆ are those I personally benefited a lot from and thought were worth taking, on top of the above
 
 **Degree**: BS in Information Systems + additional major in Computer Science
 
@@ -34,9 +36,15 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 
 #### Courses
 
-- **[15-251 Great Ideas in Theoretical Computer Science](https://s22.cs251.com/index.html)**
+- **! [15-251 Great Ideas in Theoretical Computer Science](https://s22.cs251.com/index.html)**
+  - Covers many important theorectical foundations of CS, such as computability and complexity, randomized algorithms, approximations, etc. There's a lot of math involved (e.g. set and graph theory), and a huge part of the class is reading and writing proofs.
+  - This class has a reputation for being very hard, and I mostly agree with that. Some parts did give me quite a hard time (mainly countability and approximation), while others were *relatively* easier to understand (since it has some overlap with 210). For what it's worth, the time I spent on it is definitely more than any other core classes.
+  - I can't tell if I am a fan of the writing sessions, where instead of submitting the assignment, some random questions from it are picked and one needs to write down the answers in a quiz setting. On one hand, as someone with test anxiety, I needed to spend way more effort to prepare for the weekly "tests". On the other hand, it did make exam preparation way less stressful, since I felt that sufficient understanding of the homework problems makes exams pretty trivial.
+  - Ada is probably the most devoted professor I have met at CMU so far. He has definitely spent a lot of effort into making 251 a good course, and he is very good at explaining and motivating complext concepts. The course also has a good support structure. One would definitely enjoy this course if they are interested in math and theoretical CS, even though it would take non-trivial effort to do well in it regardless.
 
 - **[15-330 Introduction to Computer Security](https://www.andrew.cmu.edu/course/18-330/2022s/)**
+  - The course has four main parts: security concepts, cryptography, network security, and human factors. I took it both out of interest and because I believe it's a field with practical importance that deserves more attention than it's getting.
+  - The first two assignments (exploiting C programs and cryptographic primitives) turned out to be pretty hard and took me way too long to finish. It almost seemed like mission impossible to fully understand cryptography and I literally got more stuck on them than 440 projects. The cryptography exam was also brutal. Things chilled down a lot after the crypto part though.
 
 - **67-272 Application Design and Development**
 
@@ -60,12 +68,12 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
   - Working through the projects was just a huge battle with all sorts of concurrency issues. Read more about them [here](https://hachiyuki8.github.io/random/2021/12/23/440-projects.html).
 
 - **☆ 15-459 Quantum Computation**
-  - Took this course because I'm interested in the topic and it's purely about the CS and math aspects, with no physics involved - I'm not really into physics.
-  - Turned out to be quite a bit harder than I expected - guess I'm just not a theory person. Still really rewarding though, and Ryan O'Donnell is very nice and teaches well, so I'm glad I didn't drop it (even though I ended up with a suboptimal grade).
+  - Took this course purely because I'm interested in the topic and it only discusses the CS and math side of the field, with no physics involved - I'm not really into physics.
+  - Turned out to be quite a bit harder than I expected - guess I'm just not a theory person. Also, it would have been easier had I taken 251 before it, which is much more crucial of a prerequisite than 210. 
+  - Still really rewarding though (few things feel better than finally understanding why quantum computers can break RSA), and Ryan O'Donnell is very nice and teaches well, so I'm glad I didn't drop it (even though I ended up with a suboptimal grade).
 
 - **67-262 Database Design and Development**
-  - The first half of the course (SQL basics) was entirely a review for me, so it was pretty boring. The second half talks about transactions, integrity constraints, some database design principles and MongoDB, which was somewhat new, but still too slow paced.
-  - Raja is a good and caring professor though.
+  - The first half of the course (SQL basics) was entirely a review for me, so it was pretty boring. The second half talks about transactions, integrity constraints, some database design principles and MongoDB, which was somewhat new, but still too slow paced. Raja is a good and caring professor though.
 
 - **☆ 76-270 Writing for the Professions**
   - Very flexible topic choice for all the projects (except the first one, which is job application materials) and I enjoyed working on (and put a lot of effort in) all of them. Would have benefited from the course even more had I taken it in my sophomore year.
@@ -91,7 +99,7 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 - I interned remotely at [Amplitude](https://amplitude.com/) as a backend software engineer, and was surprised by how much I grew during my 12 weeks there. At the beginning, I relied a lot on my mentor; being uncertain about the quality of my work, I would consult her about everything big or small. But I quickly realized that I could figure out most things on my own and often notice details that others have overlooked, so I became more confident in my abilities and that formed a virtuous cycle.
 - I ended up finishing my internship projects a lot faster than expected. Around the same time I discovered a bug in production where a feature was optimized incorrectly, which resulted in wrong computation of data, so I took on this unexpected task of fixing it. During the last few weeks, I worked on a couple smaller features, including a hackathon project which won the 4th place.
-- I decided to return next year for another internship for a few reasons. First, I liked the culture there and my team was especially nice and fun to work with, which I value a lot. Also, I felt like I could (and did) make an impact, because regardless of seniority, people were supportive and valued my opinions. For example, I got to work with our Chief Architect and several other senior members for the hackathon project and made importnt contributions. Lastly, the company was quickly expanding at that time, launching new products and preparing to go public, so there would be a lot of opportunities for me to learn new things while leveraging my existing knowledge to reduce onboarding overhead. 
+- I decided to return next year for another internship for a few reasons. First, I liked the culture there and my team was especially nice and fun to work with, which I value a lot. Also, I felt like I could (and did) make an impact, because regardless of seniority, people were supportive and valued my opinions. For example, I got to work with our Chief Architect and several other senior members for the hackathon project and made important contributions. Lastly, the company was quickly expanding at that time, launching new products and preparing to go public, so there would be a lot of opportunities for me to learn new things while leveraging my existing knowledge to reduce onboarding overhead. 
 
 <br />
 
@@ -104,15 +112,15 @@ This was also a semester with multiple big changes in life. Starting therapy at 
   - Similar to 210, the labs were time consuming and could be frustrating since I was new to system programming and low level languages, and was yet to form very good coding habits. However, finishing them felt rewarding and they definitely improved my coding and debugging skill. 
   - It also made me interested in computer systems. In hindsight, the course was useful and worth the amount of effort I put in.
 
-- **☆ [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
+- **! [15-388 Practical Data Science](http://www.datasciencecourse.org/)**
   - Another very useful course for people interested in data science, requires rather solid Python skills and focuses heavily on application (as the name suggested). Covers all the major aspects of data science (collection, modeling, etc). The statistical and machine learning modeling part has some overlap with 36-290.
   - Well taught content and decent workload (given one is proficient in Python). There are two projects and Zico Kolter was very flexible about the topics, so I got to work on things that I found interesting ([Overwatch Stats Analysis](https://colab.research.google.com/drive/136_MdZarusiGsfRILIKV-QEkOe9t5BxO?authuser=1)), which was great.
 
 - **67-250 The Information Systems Milieux**
-  - First half of the course focuses on the business aspect of IS, with a lot of case studies and theoretical/methodological stuff. I didn't like it, and the Tesla case study project took me way too long to finish.
-  - Second half of the course is an introduction to HTML/CSS, JS and SQL. A good overview but the pace was way too slow for me. The final web dev project also made me realize I was uninterested in frontend stuff.
+  - First half of the course focuses on the business aspect of IS, with a lot of case studies and theoretical/methodological stuff. I didn't like it, and I would never want to work on something like the Tesla case study project again.
+  - Second half of the course is an introduction to HTML/CSS, JS and SQL. A good overview but the pace was way too slow for me. The final web dev project also made me realize I wasn't very fond of frontend stuff.
 
-- **☆ 36-315 Statistical Graphics and Visualization**
+- **36-315 Statistical Graphics and Visualization**
   - Teaches you how to make statistical visualizations that make sense in R and think critically about them. Also covers the basics of data analysis and model inference. Some overlap with 388.
   - Chill workload. Zach Branson is a very nice professor who is willing to make quick changes according to students' feedback. 
 
@@ -134,11 +142,11 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 #### Courses
 
-- **☆ [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
+- **! [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
   - After 15-150, I thought I would hate this class, but that didn't really happen. Learning algorithms and solving problems functionally was still challenging, and I had to put in quite some effort and relied heavily on office hours. It's rewarding to figure a problem out, but the process did get very frustrating at times.
   - The algorithmic content covered in this class is pretty useful for technical interviews. SML also became more tolerable when I'm not only learning about the language itself.
 
-- **☆ [36-290 Introduction to Statistical Research Methodology](https://github.com/pefreeman/36-290)**
+- **! [36-290 Introduction to Statistical Research Methodology](https://github.com/pefreeman/36-290)**
   - A research training course for sophomore statistics students. Highly recommended if you're interested in doing statistics or data science stuff - extremely useful.
   - Heavy focus on application of statistical learning methods (supervised vs unsupervised, regression vs classification, etc.), with a lot of programming in R. 
 
@@ -151,7 +159,7 @@ This was also a semester with multiple big changes in life. Starting therapy at 
   - A big part of the course is the mathematical basis of linear regression models. Don't think I remember a single thing about the content other than it being boring and feeling meaningless to me.
 
 - **79-104 Global Histories**
-  - The topic was genocide and weapons of mass destruction. Fairly interesting. I enjoyed all three required books: Ordinary Men (Holocaust), Machete Season (Rwanda genocide), and Thirteen Days (the Cuban Missile Crisis).
+  - The topic was genocide and weapons of mass destruction. Fairly interesting. I enjoyed all three required books and would recommend them: Ordinary Men (Holocaust), Machete Season (Rwanda genocide), and Thirteen Days (the Cuban Missile Crisis).
 
 - **(SI Leader) 21-241 Matrices and Linear Transformations**
   - I applied to be an SI leader after my first semester because I wanted to lead 21-127, but I ended up being assigned to 241.
@@ -176,7 +184,7 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 - **(Summer 1) [15-150 Principles of Functional Programming](http://www.cs.cmu.edu/~15150/)**
   - Teaches Standard ML and some core concepts in functional programming. Way too fast-paced since it was only six weeks (they changed it to be 12 weeks in summer 2021). Some ideas are somewhat cool, but too novel for me to be sufficiently comprehended in that short of a time (e.g. continuations/lazy evaluations).
-  - On top of the concept itself, I also didn't particularly enjoy learning SML and was often confused by it. How painful this class turned out to be (plus various other reasons) kind of discouraged me from transferring to SCS.
+  - On top of the concept itself, I also didn't particularly enjoy learning SML and was often confused by it. 
 
 - **(Summer 1) 36-225 Introduction to Probability Theory**
   - Fairly easy with a chill workload, quite some useful knowledge and practice of basic probability theory, random variables and distribution functions, etc.
@@ -240,10 +248,10 @@ This was also a semester with multiple big changes in life. Starting therapy at 
   - The course is heavily proof-based. First 1/3rd of the course gave me a rough time because I wasn't very good at writing rigorous proofs, but it got much easier once I got a hang of it.
 
 - **36-202 Methods for Statistics and Data Science**
-  - I wasn't yet a statistics person at that time, but definitely found the content more engaging than AP statistics. A very easy course that covers quite some important fundamentals of statistics and provides a little R exposure.
+  - I wasn't yet into data science at that time, but definitely found the content more engaging than AP statistics. A very easy course that covers quite some important fundamentals of statistics and provides a little R exposure.
 
 - **76-100 Reading and Writing in an Academic Context**
-  - As an international student, I had to take it or take the placement test to skip it. In hindsight, I don't think I learnt anything new from it, although it did help me brush up on my writing.
+  - As an international student, if I didn't want to take it I would need to pass the placement test to skip it, but I didn't. In hindsight, it might be a bad idea because I don't think I learnt anything new from it, although it did help me brush up on my writing.
   - Most of the lower-stake assignments centered around basic writing skills, such as writing synthesis, presenting arguments, etc.
 
 - **66-106 Quantitative Social Science Scholars First Year Seminar**
@@ -252,7 +260,7 @@ This was also a semester with multiple big changes in life. Starting therapy at 
 
 - **[15-112 Fundamentals of Programming](https://www.cs.cmu.edu/~112/) (Dropped)**
   - I didn't need to take it, but I was worried that my programming fundamentals was not solid - I barely remembered anything from APCS. 
-  - Dropped it five weeks into the semester because I was struggling in 127 and wanted more time, also the course annoyed me more than it benefited.
+  - Dropped it five weeks into the semester because the course annoyed me more than it benefited.
 
 #### Other Committments
 - CMU Overwatch team
