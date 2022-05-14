@@ -11,7 +11,9 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
 ! are those I considered (objectively) good or useful
 ☆☆ are those I personally benefited a lot from and thought were worth taking, on top of the above
 
-**Degree**: BS in Information Systems + additional major in Computer Science, 3.97/4.0
+**Degree**: BS in Information Systems + additional major in Computer Science, [Quantitative Social Science Scholar](https://www.cmu.edu/dietrich/qsss/index.html)
+
+**GPA**: 3.97/4.0
 
 **Background**: I entered CMU (Dietrich) with a decent background in humanities and social science, and wanted to study psychology or cognitive science at first. I didn't have much, if any, STEM background other than several years of experience in Pascal and a little knowledge of Java (from APCS) and Python.
 
