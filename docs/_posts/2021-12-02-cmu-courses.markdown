@@ -8,7 +8,9 @@ categories: random
 Thoughts on CMU courses (and reflections on my college experience). Inspired by [similar pages](https://thenumbat.github.io/cmu/).
 
 ☆ are the courses I personally enjoyed and found fun
+
 ! are those I considered (objectively) good or useful
+
 ☆☆ are those I personally benefited a lot from and thought were worth taking, on top of the above
 
 **Degree**: BS in Information Systems + additional major in Computer Science, [Quantitative Social Science Scholar](https://www.cmu.edu/dietrich/qsss/index.html)
@@ -54,9 +56,9 @@ Thoughts on CMU courses (and reflections on my college experience). Inspired by 
  
 - **(TA) [15-210 Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)**
 
-**Workload**:
+**Workload**: objectively lighter than the previous semester but the work was more frustrating
 
-**Reflections**: 
+**Reflections**: I spent a lot of time this semester reflecting on the series of choices I made in the past few years in terms of academics, future career, and just life in general, that led me to where I am right now, and identified the gap between who I am and who I want to become. Closing that gap requires non-trivial effort, the exact reasons of which does not fit into the theme of this post, so I won't go into details here (but maybe in a separate post). Luckily, I am making continuous progress (albeit slowly).
 
 <br />
 
